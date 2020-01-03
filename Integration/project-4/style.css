@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    background: #121212;
+    color: white;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0 150px 0;
+}
+
+.navbar-ul{
+    list-style: none;
+    display: flex;
+    margin: 50px 250px 0 0;
+}
+
+.navbar-ul li{
+    font-size: 16px;
+    padding: 0 30px 0 0;
+}
+
+.navbar-logo{
+    margin: 50px 0 0 250px;
+}
+
+.content-left-1{
+    margin: 0 0 0 250px;
+}
+
+.content-title-left{
+    font-size: 24px;
+}
+
+.content-desc-left{
+    margin: 20px 0 0 40px;
+}
+
+.content-button-left{
+    margin: 20px 1500px 0 40px;
+}
+
+.content-button-left p{
+    text-align: center;
+    border: solid #F4C474;
+    border-radius: 25px;
+    background-color: #F4C474;
+    padding: 5px;
+}
+
+.content-socials ul{
+    list-style: none;
+    display: flex;
+}
+
